@@ -22,7 +22,6 @@ We bridge the gap between clinical radiology and advanced medical informatics. O
 **Currently Deployed & Active Research:**
 * **Artificial Intelligence:** Utilization of state-of-the-art vision models, including SAM 3 and MONAI, for medical image segmentation and analysis.
 * **Clinical Repository:** A structured Retrieval-Augmented Generation (RAG) pipeline utilizing advanced document parsing and Qdrant vector databases.
-* **Enterprise Infrastructure:** Scalable Website-as-a-Service (WaaS) deployment with secure domain mapping for localized diagnostic centers.
 
 **Active Development (Q3/Q4 Roadmap):**
 * **Interactive Imaging:** Engineering a custom, seamless integration of the **OHIF DICOM viewer** for web-based, scrollable clinical cases.
